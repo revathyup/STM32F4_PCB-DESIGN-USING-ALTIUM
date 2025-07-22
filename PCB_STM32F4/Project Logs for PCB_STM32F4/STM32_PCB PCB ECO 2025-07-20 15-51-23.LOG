@@ -1,0 +1,23 @@
+Remove Pin from Net: Failed to remove Pin
+Change Component Designator: OldDesignator= NewDesignator=C5
+Change Component Designator: OldDesignator= NewDesignator=C6
+Change Component Designator: OldDesignator= NewDesignator=D2
+Change Component Designator: OldDesignator= NewDesignator=R2
+Change Component Designator: OldDesignator= NewDesignator=R6
+Change Component Designator: OldDesignator= NewDesignator=Y1
+Added Component: Designator=R5(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R5-1
+Change Net Name : Old Net Name=NetD1_K New Net Name=LED_PWR_K
+Added Pin To Net: NetName=mcu_led_K Pin=D2-K
+Added Pin To Net: NetName=mcu_led_K Pin=R5-2
+Added Net: Name=mcu_led_K
+Added Member To Class: ClassName=STM32_SCHEMATIC Member=Component C5 C0402
+Added Member To Class: ClassName=STM32_SCHEMATIC Member=Component C6 C0402
+Added Member To Class: ClassName=STM32_SCHEMATIC Member=Component D2 RED
+Added Member To Class: ClassName=STM32_SCHEMATIC Member=Component R2 0R
+Added Member To Class: ClassName=STM32_SCHEMATIC Member=Component R5 1K
+Added Member To Class: ClassName=STM32_SCHEMATIC Member=Component R6 10k

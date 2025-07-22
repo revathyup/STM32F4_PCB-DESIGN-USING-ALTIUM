@@ -1,0 +1,24 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Copy of STM32_PCB_Copper_Signal_Top.gbr]
+   Generated File[Copy of STM32_PCB_Copper_Signal_1.gbr]
+   Generated File[Copy of STM32_PCB_Copper_Signal_2.gbr]
+   Generated File[Copy of STM32_PCB_Copper_Signal_Bot.gbr]
+   Generated File[Copy of STM32_PCB_Legend_Top.gbr]
+   Generated File[Copy of STM32_PCB_Legend_Bot.gbr]
+   Generated File[Copy of STM32_PCB_Soldermask_Top.gbr]
+   Generated File[Copy of STM32_PCB_Soldermask_Bot.gbr]
+   Generated File[Copy of STM32_PCB_Paste_Top.gbr]
+   Generated File[Copy of STM32_PCB_Paste_Bot.gbr]
+   Generated File[Copy of STM32_PCB_Profile.gbr]
+   Generated File[Copy of STM32_PCB_NPTH_Drill.gbr]
+   Generated File[Copy of STM32_PCB_PTH_Drill.gbr]
+   Generated File[Copy of STM32_PCB.EXTREP]
+   Generated File[Copy of STM32_PCB.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 15:56:12 On 2025-07-22

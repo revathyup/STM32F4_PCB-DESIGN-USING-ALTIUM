@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Copy of STM32_PCB.GBR   2025-07-22  15:56:10
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                L1(SIGNAL)                              
+.gbr                L2(GND)                                 
+.gbr                L3(GND)                                 
+.gbr                L4(SIGNAL)                              
+.gbr                Top Overlay                             
+.gbr                Bottom Overlay                          
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+------------------------------------------------------------------------------------------
