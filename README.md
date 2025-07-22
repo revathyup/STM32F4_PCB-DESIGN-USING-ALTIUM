@@ -86,7 +86,6 @@ Component orientation marked on silkscreen
 Revathy UP
 
 GitHub: @revathyup
-Project: T_PROJECT
 
 🙏 Acknowledgments
 
