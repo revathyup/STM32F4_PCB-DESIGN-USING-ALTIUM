@@ -1,4 +1,4 @@
-A complete PCB design for an STM32F411-based development board featuring motion sensing capabilities, designed using Altium Designer.
+A complete PCB design for an STM32F411-based development board , designed using Altium Designer.
 📋 Project Overview
 This project presents a custom PCB design for a compact development board built around the STM32F411 microcontroller. The board integrates an MPU-6050 6-axis motion sensor and provides essential connectivity options for embedded system development.
 Key Features
